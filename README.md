@@ -1,5 +1,5 @@
 
-# Tableau Customer Sales Analysis
+# Company Sales Analysis
 
 ![Project Screenshot](https://github.com/ameyagidh/CustomerSales/assets/65457905/7a1c0ed5-0cfa-4c93-bb87-8096728e110f)
 
